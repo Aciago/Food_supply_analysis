@@ -16,4 +16,8 @@ Our dataset is a [historical records about global food supply provided by United
 ### :bar_chart: Results and conclusions:
 [Full presentation](https://github.com/Aciago/Food_supply_analysis/blob/main/P5_slides.pdf)
 
-![Distribution of clients by category of purchased items](https://github.com/Aciago/Sales_analysis/blob/main/age_vs_prod_category1.jpg)
+![List of best countries to export chicken meat to](https://github.com/Aciago/Food_supply_analysis/blob/main/List_of_best_countries_for_chickenmeat_exports.png)
+
+![Averages of each cluster per variable](https://github.com/Aciago/Food_supply_analysis/blob/main/Avg_features_per_cluster.png)
+
+![Clustering of countries with dendrogram](https://github.com/Aciago/Food_supply_analysis/blob/main/P5_01_dendrogramme.jpg)
