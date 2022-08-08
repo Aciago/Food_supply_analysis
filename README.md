@@ -1,4 +1,4 @@
-# :books: [Global food supplies analysis](https://openclassrooms.com/fr/paths/65/projects/165/assignment)
+# :chicken: [Global food supplies analysis](https://openclassrooms.com/fr/paths/65/projects/165/assignment)
 
 ### :point_right:[Notebook](https://github.com/Aciago/Food_supply_analysis/blob/main/P5_02_notebook.ipynb):point_left:
 
@@ -20,4 +20,4 @@ Our dataset is a [historical records about global food supply provided by United
 
 ![Averages of each cluster per variable](https://github.com/Aciago/Food_supply_analysis/blob/main/Avg_features_per_cluster.png)
 
-![Clustering of countries with dendrogram](https://github.com/Aciago/Food_supply_analysis/blob/main/P5_01_dendrogramme.jpg)
+<img src="https://github.com/Aciago/Food_supply_analysis/blob/main/P5_01_dendrogramme.jpg" width="800" />
